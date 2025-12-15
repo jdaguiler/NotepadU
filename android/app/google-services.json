@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817270476248",
+    "project_id": "agenda-upds",
+    "storage_bucket": "agenda-upds.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817270476248:android:86f302b81b5f1a03aff6ad",
+        "android_client_info": {
+          "package_name": "com.example.agenda_upds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOgtUKooSuRdaiDoEWEQ9qF1uop4Mfbj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
